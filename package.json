@@ -1,0 +1,21 @@
+{
+  "name": "unnor.css",
+  "version": "1.0.0",
+  "description": "A modern alternative to CSS resets",
+  "main": "unnor.css",
+  "style": "unnor.css",
+  "files": [
+    "unnor.css"
+  ],
+  "keywords": [
+    "unnor.css",
+    "css",
+    "reset",
+    "css reset"
+  ],
+  "repository": "git@github.com:hasanaliagar/unnor.css.git",
+  "author": "Hasan Ali AGAR <info@hasanaliagar.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/hasanaliagar/unnor.css/issues",
+  "homepage": "https://hasanaliagar.github.io/unnor.css"
+}
