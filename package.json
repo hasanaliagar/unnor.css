@@ -1,7 +1,7 @@
 {
   "name": "unnor.css",
   "version": "1.0.0",
-  "description": "A modern alternative to CSS resets",
+  "description": "An radical approach to CSS resets",
   "main": "unnor.css",
   "style": "unnor.css",
   "files": [
