@@ -1,2 +1,9 @@
 # unnor.css
-Radical CSS reset library
+A radical approach to CSS resets
+
+## Install
+
+```sh
+yarn add unnor.css
+npm install unnor.css
+```
