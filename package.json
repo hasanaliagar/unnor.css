@@ -2,6 +2,7 @@
   "name": "unnor.css",
   "version": "1.0.5",
   "description": "A radical approach to CSS resets",
+  "license": "MIT",
   "main": "unnor.css",
   "style": "unnor.css",
   "files": [
